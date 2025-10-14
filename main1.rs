@@ -1,6 +1,6 @@
 fn main() {
     println!("Classwork1");
-    println!("Conversion from Celsius to Farenheit");
+    println!("Conversion from Celsius to Fahrenheit");
     let v1:f64 = 1.0;
     println!("Celsius: {}", v1);
     let v2:f64 = v1*(9.0/5.0)+32.0;
